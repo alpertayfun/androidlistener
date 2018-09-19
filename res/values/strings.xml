@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gen Digital Signage</string>
+    <string name="dummy_content">Güncelleniyor...</string>
+    <string name="dummy_button">Tamam</string>
+
+</resources>
